@@ -1,0 +1,32 @@
+{
+    "data": {
+        "title": "JavaScript Flashcards",
+        "cards": [
+            {
+                "question": "What do I love more than anything?",
+                "hint": "My owner comes first but what do you do with me",
+                "answer": "Puppies love games such as hide and seek! Hide, then call your pup's name so she can try to find you."
+            },
+            {
+                "question": "How many words can I learn?",
+                "hint": "In spanish the word is million",
+                "answer": "1000 words"
+            },
+            {
+                "question": "What is the best way to show me love and affection?",
+                "hint": "My alltime favorite thing you can do to me besides play with me",
+                "answer": "Stroking dogs and gazing into their eyes releases the feel good hormone oxytocin for both people and dogs"
+            },
+            {
+                 "question": "If I'm unhappy and cranky what do I need?",
+                "hint": "The best feeling in the world other than accomplished",
+                "answer": "Tired puppies get cranky just like little kids. If you have a fussy puppy, try nap time."
+            },
+            {
+                "question": "How can you tell if I am happy?",
+                "hint": "Helicopter",
+                "answer": "Big happy Helicopter tail wagging is one sign of a really nice dog"
+            }
+        ]
+    }
+}
