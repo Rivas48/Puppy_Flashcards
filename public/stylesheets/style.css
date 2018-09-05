@@ -350,3 +350,12 @@ input {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;;
 }
+
+.fa-paw{
+  font-size:50px;
+  color: #D64226;
+  margin: 40px auto;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
